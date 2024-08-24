@@ -5,11 +5,11 @@ Bem-vindo ao repositório de Engenharia Mecatrônica com MATLAB! Este repositór
 
 ### Introdução ao MATLAB
 - Lab01 - Boas práticas de programação
-    Escala de eixos (axis)
-    Valores máximos (max)
-    Legendas de figuras (legend)
-    Plotagem vertical (subplot)
-    Cálculo de derivadas analitacamente
+    - Escala de eixos (axis)
+    - Valores máximos (max)
+    - Legendas de figuras (legend)
+    - Plotagem vertical (subplot)
+    - Cálculo de derivadas analitacamente
 - Lab02 - Busca de raízes
 - Lab03 - Sistemas Lineares - Métodos Diretos
 - Lab04 - Métodos Iterativos para sistemas lineares e não lineares
